@@ -1,3 +1,3 @@
-Integrantes:
--Luna Padilla Luis Donaldo
--Guzman Gutierrez Jorge Alberto
+## Integrantes:
+-Marin Bautista Marlett Alessandra
+-Graxiola Quiroz Juan Antonio
